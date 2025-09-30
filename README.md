@@ -1,0 +1,2 @@
+# Pratica10
+Array.
